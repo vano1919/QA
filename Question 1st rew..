@@ -1,0 +1,10 @@
+I have a question about the style of a good requirement. Is it acceptable to write "To enter information about the husband, 
+the user must go to the 'Husband' tab"; (when requirements describe what the user needs to do, such as filling in some text?) 
+Or should the requirement's grammatical style be: "The application must support the functionality of entering information about the wife";
+(when the requirement describes the functionality and how it should work?)
+If there are no restrictions regarding it, I am interested in knowing more.
+
+I'm also interested in understanding how detailed requirements should be. 
+For example, is the statement "The application must support all existing versions of operating systems such as Windows, Android, macOS, iOS, and Linux" 
+sufficient, or do real projects require more detailed specifications for each system version?
+I understand that there needs to be a balance, but I'm curious if there are any techniques to determine the appropriate level of detail.
