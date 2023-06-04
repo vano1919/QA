@@ -1,0 +1,4 @@
+1. When determining the priority of a requirement, how can we differentiate between high, medium, and low when it's not clear-cut or obvious?
+2. In the context of creating verifications, how detailed should they be? Are there any guidelines or indicators to help identify when a 
+      verification is becoming too detailed or overly complex?
+3. When it is not immediately obvious whether we need to create equivalent classes for verifications in software testing, how can we determine?
